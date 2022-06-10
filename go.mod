@@ -1,4 +1,4 @@
-module github.com/helloyi/go-sshclient
+module github.com/sz-po/go-sshclient
 
 go 1.13
 
